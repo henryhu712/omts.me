@@ -15,9 +15,9 @@ sidebar_position: 2
 
   One room, gpt-3.5 only.
 
-  Limited messages.
+  Limited messages: 3000 / 24 hours
 
-- Authenticated, $0
+- Authenticated, $2
 
   Multiple rooms, access to public rooms, multiple LLMs.
 
@@ -29,7 +29,6 @@ sidebar_position: 2
 
   dashboard, own keys
 
-  free usage $5
 
 
 
