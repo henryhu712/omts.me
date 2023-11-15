@@ -29,6 +29,7 @@ VALUES
     (4, 'Michael', 'Taylor', 89500, 2);
 ```
 
+
 ## Querying Multiple Tables Using JOIN
 
 
