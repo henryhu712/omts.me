@@ -5,6 +5,35 @@ hide_title: true
 sidebar_position: 1
 ---
 
+## The Default Room
+
+每个用户，无论是注册用户还是匿名用户，都拥有一个默认房间 Playground。于是有了一个公开的免费使用的房间，用户点击进入，直接就可以和GPT聊天，没有什么注册、登录、绑卡等等过程。而且，聊天室的概念清晰简单，人人一看就懂。
+
+从这里，我仿佛再一次从头开始设计 Airoom.
+
+
+## Prisma
+
+[Performance: How to make prisma perform a single SQL query with joins instead of multiple queries](https://github.com/prisma/prisma/discussions/12715)
+
+
+## 客户端生成ID
+
+[Client-Generated IDs vs. Server-Generated IDs](https://www.techyourchance.com/client-generated-ids-vs-server-generated-ids/)
+
+[Why your software should use UUIDs](https://devforth.io/blog/why-your-software-should-use-uuids/)
+
+
+## 密码工具箱
+
+[使用 Web Crypto API 打造“密码学家的工具箱”](https://roubin.me/web-crypto-api-introduction/)
+
+
+## Assis API
+
+[Tutorial: Get started with the new OpenAI Assistants API](https://medium.com/@ralfelfving/tutorial-get-started-with-the-new-openai-assistants-api-7049c2517bfe)
+
+
 ## ESLint
 
 [How to use ESLint with TypeScript](https://khalilstemmler.com/blogs/typescript/eslint-for-typescript/)
